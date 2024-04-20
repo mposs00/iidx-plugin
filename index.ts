@@ -133,6 +133,7 @@ export function register() {
     R.Route(`IIDX27${method}`, handler);
     R.Route(`IIDX28${method}`, handler);
     R.Route(`IIDX29${method}`, handler);
+    R.Route(`IIDX30${method}`, handler);
     //R.Route(`IIDXのバージョン${method}`, handler);
   };
 
